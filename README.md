@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Rich!  <a href="https://www.linkedin.com/in/richscaglione/">Cybersecurity Apprentice</a> </h1>
 
-<!--
-**rscaglione/rscaglione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Professional Development (Learning):</h2>
 
-Here are some ideas to get you started:
+- <b>Linux (Ubuntu and Kali Linux)</b>
+  
+- <b>Python for Scripting and Automation</b>
+ 
+- <b>Microsoft Sentinel and KQL</b>
+ 
+- <b>Wireshark</b>
+ 
+- <b>Nessus and Nmap</b>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
